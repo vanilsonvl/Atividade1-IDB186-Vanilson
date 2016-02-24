@@ -1,5 +1,5 @@
 ##FATEC JESSEN VIDAL - São José dos Campos
-###Tecnolgia de Banco de Dados
+###Tecnologia de Banco de Dados
 
 ### Vanilson Leite
 
